@@ -7,10 +7,6 @@
 <h1 align="center">Welcome to our GitHub Organization Page</h1>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-    <a href="https://keture.com" target="_blank">
-    <img alt="Keture Products" src="https://img.shields.io/badge/Keture-Products-orange?style=flat-square&logo=appveyorlogo=data:image/png;base64" />
-  </a>
   <a href="https://twitter.com/keturecom" target="_blank">
     <img alt="Twitter: keturecom" src="https://img.shields.io/twitter/follow/keturecom.svg?style=social" />
   </a>
@@ -25,7 +21,7 @@
 
 <div align="center">
 
-## Show your support by giving ⭐️
+## Show your support by giving ⭐️ to our opensource repos.
 
 Copyright © Keture 2022 | All Rights Reserved.
 
