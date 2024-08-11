@@ -22,7 +22,7 @@ With our extensive expertise, experience, and unwavering commitment to excellenc
 
 <div align="center">
 
-Copyright © Keture 2024 | All Rights Reserved.
+Copyright © 2024 Keture Ltd. | All Rights Reserved.
 
 </div>
 
